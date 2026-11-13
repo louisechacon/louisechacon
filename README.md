@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louise-chacon-458540359/)
 [![Portfólio](https://img.shields.io/badge/-Portfólio-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://louise-chacon-dev.vercel.app/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:louisechacon26@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=louisechacon26@gmail.com)
 ---
 
 ## Sobre Mim
