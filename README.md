@@ -6,7 +6,7 @@
 ---
 
 ## Sobre Mim
-- 🎓 **Graduanda** em Tecnologia em Análise e Desenvolvimento de Sistemas | **IFRN**  
+- 🎓 **Graduanda** em Análise e Desenvolvimento de Sistemas | **IFRN**  
 - 💡 Interessada especialmente em **Desenvolvimento Full Stack**
 - 🏆 Experiências com projetos pessoais e acadêmicos, responsáveis pelo desenvolvimento das minhas habilidades em programação e modelagem de software.
 
